@@ -80,8 +80,8 @@ ADMIN = {
     [1821130276] = true; -- crown emoji buyer
     [2889684872] = true; -- zinnia
     [236937914] = true; -- crown buyer
-    [562915894] = true; -- crown buyer <@733437144852332696>
-    [328722004] = true; -- crown buyer
+    [3517792293] = true; -- crown buyer <@733437144852332696>
+    [35177922933] = true; -- crown buyer
     [207714133] = true; --Helped Fixing the script
 }
 
