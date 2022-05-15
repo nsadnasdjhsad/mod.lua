@@ -74,7 +74,7 @@ MODS = {
 }
 
 ADMIN = {
-    [0] = true; -- dimag
+    [328722004] = true; -- dimag
     [324778090] = true; -- tyler
     [3171845222] = true; -- crown emoji buyer
     [1821130276] = true; -- crown emoji buyer
